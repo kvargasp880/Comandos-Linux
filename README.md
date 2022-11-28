@@ -6,16 +6,16 @@
 | -------------- | ----------- | -------------- |
 | `pacman`| Instalar cualquier paquete que se requiera en nuestro sistema manjaro  | `sudo pacman (nombre de los paquetes)` |
 | -------------- | ----------- | -------------- |
-| `sudo`|  | `sudo` |
+| `cat`|Comando para poder imprimir o ver datos en la terminal | `cat texto.txt` |
 | -------------- | ----------- | -------------- |
-| `sudo`|  | `sudo` |
+| `cat history > texto.txt`| Copiar el historial de comandos para enviarlo a el archivo que queramos, puede utilizarse para cualquier otra cosa  | `cat (lo que requiera) > (Archivo al que queremos pasar la informacion)` |
 | -------------- | ----------- | -------------- |
-| `sudo`|  | `sudo` |
+| `chmod`| Nos permite cambiar los permisos de acceso de algún directorio | `chmod` |
 | -------------- | ----------- | -------------- |
-| `sudo`|  | `sudo` |
+| `cd `| Viajar por algun directorio que queramos | `cd /var` |
 | -------------- | ----------- | -------------- |
-| `sudo`|  | `sudo` |
+| `rmdir`| Remover  algún directorio que queramos siempre y cuando este vacio | `rmdir "el directorio que queramos borrar"` |
 | -------------- | ----------- | -------------- |
-| `sudo`|  | `sudo` |
+| `rm`| Se utiliza para remover archivos y directorios | `rm texto.txt` |
 | -------------- | ----------- | -------------- |
 | `sudo`|  | `sudo` |
