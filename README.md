@@ -18,4 +18,4 @@
 | -------------- | ----------- | -------------- |
 | `rm`| Se utiliza para remover archivos y directorios | `rm texto.txt` |
 | -------------- | ----------- | -------------- |
-| `sudo`|  | `sudo` |
+| `ls`| Ver los documentos y subdirectorios que se encuentran en el directorio | `ls` |
