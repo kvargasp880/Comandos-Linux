@@ -36,7 +36,7 @@
 | -------------- | ----------- | -------------- |
 | `chown `| Cambiar el dueno del archivo | `chown <nombre del usuario> <nombre del archivo>` |
 | -------------- | ----------- | -------------- |
-| `l`|  | `d` |
+| `free -h`| Nos da informacion sobre la memoria libre y la que esta siendo utilizada | `free -h` |
 | -------------- | ----------- | -------------- |
 | `l`|  | `d` |
 | -------------- | ----------- | -------------- |
