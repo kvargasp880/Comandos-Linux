@@ -22,19 +22,19 @@
 | -------------- | ----------- | -------------- |
 | `clear`| Limpiar toda la terminal de los procesos que se hayan realizado | `clear` |
 | -------------- | ----------- | -------------- |
-| `mkdir`<nombre de directorio>| Este comando crea los directorios que el usuario desee | `mkdir directorioNuevo` |
+| `mkdir <nombre de directorio>` | Este comando crea los directorios que el usuario desee | `mkdir directorioNuevo` |
 | -------------- | ----------- | -------------- |
-| `nano`<nombre del archivo que queramos crear>| El comando nano nos permite crear archivos de texto, en los cuales podemos poner diferentes comandos de bash o de lo que queramos | `nano Archivo` |
+| `nano <nombre del archivo que queramos crear>`  | El comando nano nos permite crear archivos de texto, en los cuales podemos poner diferentes comandos de bash o de lo que queramos | `nano Archivo` |
 | -------------- | ----------- | -------------- |
 | `sudo su`| Este comando nos permite convertirnos en root, un super usuario con todos los permisos, esto sin la necesidad de poner sudo en cada cosa que queramos hacer en el sistema operativo | `sudo su` |
 | -------------- | ----------- | -------------- |
-| `exit`| Este comando nos permite salirnos de el usuario root | `exit`<cuando estemos ingresados en root para volver al usuario normal> |
+| `exit`| Este comando nos permite salirnos de el usuario root | `exit <cuando estemos ingresados en root para volver al usuario normal> `|
 | -------------- | ----------- | -------------- |
 | `adduser`| Anadir un usuario a nuestro sistema operativo | `sudo adduser <nombre de usuario>` |
 | -------------- | ----------- | -------------- |
-| `passwd`| Editar la contrasena de seguridad a un usuario ya registrado en el sistema | `passwd`<Nombre del usuario registrado> |
+| `passwd`| Editar la contrasena de seguridad a un usuario ya registrado en el sistema | `passwd <nombre del usuario>` |
 | -------------- | ----------- | -------------- |
-| `l`|  | `d` |
+| `chown `| Cambiar el dueno del archivo | `chown <nombre del usuario> <nombre del archivo>` |
 | -------------- | ----------- | -------------- |
 | `l`|  | `d` |
 | -------------- | ----------- | -------------- |
