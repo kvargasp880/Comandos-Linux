@@ -24,13 +24,13 @@
 | -------------- | ----------- | -------------- |
 | `mkdir`<nombre de directorio>| Este comando crea los directorios que el usuario desee | `mkdir directorioNuevo` |
 | -------------- | ----------- | -------------- |
-| `l`|  | `d` |
+| `nano`<nombre del archivo que queramos crear>| El comando nano nos permite crear archivos de texto, en los cuales podemos poner diferentes comandos de bash o de lo que queramos | `nano Archivo` |
 | -------------- | ----------- | -------------- |
-| `l`|  | `d` |
+| `sudo su`| Este comando nos permite convertirnos en root, un super usuario con todos los permisos, esto sin la necesidad de poner sudo en cada cosa que queramos hacer en el sistema operativo | `sudo su` |
 | -------------- | ----------- | -------------- |
-| `l`|  | `d` |
+| `exit`| Este comando nos permite salirnos de el usuario root | `exit`<cuando estemos ingresados en root para volver al usuario normal> |
 | -------------- | ----------- | -------------- |
-| `l`|  | `d` |
+| `adduser`| Anadir un usuario a nuestro sistema operativo | `sudo adduser <nombre de usuario>` |
 | -------------- | ----------- | -------------- |
 | `l`|  | `d` |
 | -------------- | ----------- | -------------- |
