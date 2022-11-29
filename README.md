@@ -22,7 +22,7 @@
 | -------------- | ----------- | -------------- |
 | `clear`| Limpiar toda la terminal de los procesos que se hayan realizado | `clear` |
 | -------------- | ----------- | -------------- |
-| `l`|  | `d` |
+| `mkdir`<nombre de directorio>| Este comando crea los directorios que el usuario desee | `mkdir directorioNuevo` |
 | -------------- | ----------- | -------------- |
 | `l`|  | `d` |
 | -------------- | ----------- | -------------- |
