@@ -32,7 +32,7 @@
 | -------------- | ----------- | -------------- |
 | `adduser`| Anadir un usuario a nuestro sistema operativo | `sudo adduser <nombre de usuario>` |
 | -------------- | ----------- | -------------- |
-| `l`|  | `d` |
+| `passwd`| Editar la contrasena de seguridad a un usuario ya registrado en el sistema | `passwd`<Nombre del usuario registrado> |
 | -------------- | ----------- | -------------- |
 | `l`|  | `d` |
 | -------------- | ----------- | -------------- |
