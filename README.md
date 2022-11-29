@@ -20,7 +20,7 @@
 | -------------- | ----------- | -------------- |
 | `ls`| Ver los documentos y subdirectorios que se encuentran en el directorio | `ls` |
 | -------------- | ----------- | -------------- |
-| `l`|  | `d` |
+| `clear`| Limpiar toda la terminal de los procesos que se hayan realizado | `clear` |
 | -------------- | ----------- | -------------- |
 | `l`|  | `d` |
 | -------------- | ----------- | -------------- |
