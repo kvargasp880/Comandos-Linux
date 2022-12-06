@@ -32,6 +32,20 @@
 | `sudo apt-get install xfce4 xfce4-goodies`| Comando para instalar el entorno grafico de xfce | `sudo apt-get install xfce4 xfce4-goodies` |
 | `chmod +x ~/.vnc/xstartup`| Script que inicia automaticamente el servidor | `chmod +x ~/.vnc/xstartup` |
 | `sudo apt install cockpit`| Instalar el servicio de cockpit para ver el estado del servidor | `sudo apt install cockpit` |
+| `sudo apt-get install vsftpd`| Instalar servicio ftp | `sudo apt-get install vsftpd` |
+| `service vsftpd restart`| Reiniciar el ftp | `service vsftpd restart` |
+| `service vsftpd start` | Iniciar el ftp | `service vsftpd start` |
+| `service vsftpd status`| Ver el estado del servicio ftp | `service vsftpd status` |
+| `service "nombre del servicio" status`| ver el estado de algun servicio que tengamos | `service "nombre del servicio" status` |
+| `apt-get install net-tools` | Comando para instalar los net-tools y poder saber nuestra ip | `apt-get install net-tools` |
+| `ip a`| Comando para ver la direccion ip actual y su puerto | `ip a` |
+| `ping`| Comando para fijar la ip de alguna otra maquina  | `ping "ip"` |
+| `ftp`| Comando para conectarse al ftp de algun servidor | `ftp "ip"` |
+| `sudo apt-get install apache2`| Comando para instalar el apache y ver datos del servidor, ademas de que se utiliza para el servicio LAMP | `sudo apt-get install apache2` |
+| `sudo apt-get install mysql-server mysql-client`| Comando para instalar base de datos de mysql junto a su cliente | `sudo apt-get install mysql-server mysql-client` |
+| `sudo apt-get install php libapache2-mod-php php-mysql`| Comando para instalar el servicio php | `sudo apt-get install php libapache2-mod-php php-mysql` |
+| `sudo apt-get install mariadb-server`| Comando para instalar la base de datos de mariadb | `sudo apt-get install mariadb-server` |
+| `sudo wget  https://wordpress.org/lastest.tar.gz`| Comando para instalar la pagina web wordpress | `sudo wget  https://wordpress.org/lastest.tar.gz` |
 | ``|  | `` |
 | ``|  | `` |
 | ``|  | `` |
@@ -39,20 +53,8 @@
 | ``|  | `` |
 | ``|  | `` |
 | ``|  | `` |
-| ``|  | `` |
-| ``|  | `` |
-| ``|  | `` |
-| ``|  | `` |
-| ``|  | `` |
-| ``|  | `` |
-| ``|  | `` |
-| ``|  | `` |
-| ``|  | `` |
-| ``|  | `` |
-| ``|  | `` |
-| ``|  | `` |
-| ``|  | `` |
-| ``|  | `` |
+| `df -h`| Comando para ver el espacio que se ha usado en el disco | `df -h` |
+| `Gparted`| Comando para revisar las particiones del disco | `V` |
 | ``|  | `` |
 | ``|  | `` |
 | ``|  | `` |
