@@ -38,25 +38,61 @@
 | -------------- | ----------- | -------------- |
 | `free -h`| Nos da informacion sobre la memoria libre y la que esta siendo utilizada | `free -h` |
 | -------------- | ----------- | -------------- |
-| `l`|  | `d` |
+| `reboot`| Renicia la maquina | `reboot` |
 | -------------- | ----------- | -------------- |
-| `l`|  | `d` |
+| `ps -aux`| Muestra los procesos actuales de la maquina | `ps -aux` |
 | -------------- | ----------- | -------------- |
-| `l`|  | `d` |
+| `ps tree`| Muestra los procesos de la maquina en forma de "arbol" | `ps tree` |
 | -------------- | ----------- | -------------- |
-| `l`|  | `d` |
+| `man ps`| Muestra todo los manuales con sus nombres | `man ps` |
 | -------------- | ----------- | -------------- |
-| `l`|  | `d` |
+| `pwd`| Muestra el directorio en el que el usuario se encuentra | `pwd` |
 | -------------- | ----------- | -------------- |
-| `l`|  | `d` |
+| `sudo deluser`| Borra algun usuario que tengamos en nuestro sistema | `sudo deluser "nombre de ususario"` |
 | -------------- | ----------- | -------------- |
-| `l`|  | `d` |
+| `ps -u`| Muestra los procesos de algun usuario | `ps -u "nombre del usuario"` |
 | -------------- | ----------- | -------------- |
-| `l`|  | `d` |
+| `su`| Cambiar a algun usuario | `sudo su "nombre del usuario"` |
 | -------------- | ----------- | -------------- |
-| `l`|  | `d` |
+| `ls -l`| Ver los archivos junto a sus permisos | `ls -l` |
 | -------------- | ----------- | -------------- |
-| `l`|  | `d` |
+| `telnet towel.blinkenlights.nl`| Muestra la pelicula del episodio 4 de star wars | `telnet towel.blinkenlights.nl` |
 | -------------- | ----------- | -------------- |
-| `l`|  | `d` |
+| `sudo apt-get install xfce4 xfce4-goodies`| Comando para instalar el entorno grafico de xfce | `sudo apt-get install xfce4 xfce4-goodies` |
 | -------------- | ----------- | -------------- |
+| `chmod +x ~/.vnc/xstartup`| Script que inicia automaticamente el servidor | `chmod +x ~/.vnc/xstartup` |
+| `sudo apt install cockpit`| Instalar el servicio de cockpit para ver el estado del servidor | `sudo apt install cockpit` |
+| ``|  | `` |
+| ``|  | `` |
+| ``|  | `` |
+| ``|  | `` |
+| ``|  | `` |
+| ``|  | `` |
+| ``|  | `` |
+| ``|  | `` |
+| ``|  | `` |
+| ``|  | `` |
+| ``|  | `` |
+| ``|  | `` |
+| ``|  | `` |
+| ``|  | `` |
+| ``|  | `` |
+| ``|  | `` |
+| ``|  | `` |
+| ``|  | `` |
+| ``|  | `` |
+| ``|  | `` |
+| ``|  | `` |
+| ``|  | `` |
+| ``|  | `` |
+| ``|  | `` |
+| ``|  | `` |
+| ``|  | `` |
+| ``|  | `` |
+| ``|  | `` |
+| ``|  | `` |
+| ``|  | `` |
+| ``|  | `` |
+| ``|  | `` |
+| ``|  | `` |
+| ``|  | `` |
