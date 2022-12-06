@@ -46,10 +46,9 @@
 | `sudo apt-get install php libapache2-mod-php php-mysql`| Comando para instalar el servicio php | `sudo apt-get install php libapache2-mod-php php-mysql` |
 | `sudo apt-get install mariadb-server`| Comando para instalar la base de datos de mariadb | `sudo apt-get install mariadb-server` |
 | `sudo wget  https://wordpress.org/lastest.tar.gz`| Comando para instalar la pagina web wordpress | `sudo wget  https://wordpress.org/lastest.tar.gz` |
-| ``|  | `` |
-| ``|  | `` |
-| ``|  | `` |
-| ``|  | `` |
+| `sudo apt-get install squid3`| Comando para instalar el servicio proxy squid | `sudo apt-get install squid3` |
+| `sudo snap install nextcloud`| Comando para instalar nextcloud | `sudo snap install nextcloud` |
+| `sudo nextcloud.manual-install nombre contraseña`| Comando para crear una cuenta administrativa en nextcloud | `sudo nextcloud.manual-install nombre contraseña` |
 | ``|  | `` |
 | ``|  | `` |
 | ``|  | `` |
@@ -57,14 +56,14 @@
 | `Gparted`| Comando para revisar las particiones del disco | `V` |
 | ``|  | `` |
 | ``|  | `` |
-| ``|  | `` |
-| ``|  | `` |
-| ``|  | `` |
-| ``|  | `` |
-| ``|  | `` |
-| ``|  | `` |
-| ``|  | `` |
-| ``|  | `` |
-| ``|  | `` |
-| ``|  | `` |
+| `docker images`| Lista las imagenes de docker | `docker images` |
+| `docker ps -a`| Lista de las imagenes que se estan ejecutando | `docker ps -a` |
+| `docker info`| Informacion acerca de las instalaciones de docker | `docker info` |
+| `docker run`| Poner a correr un contenedor | `docker run "nombre del contenedor"` |
+| `docker version`| Muestra la version de docker que tenemos actualmente | `docker version` |
+| `docker stop`| Detiene las imagenes de docker que estan corriendo actualmente | `docker stop` |
+| `docker ps -aq`| Remueve los contenedores que tenemos | `docker ps -aq` |
+| `docker images -aq`| Comando que remueve todas las imagenes de docker | `docker images -aq` |
+| `docker build`| Construye alguna imagen desde la terminal | `docker build "nombre de la imagen"` |
+| `docker network ls`| Lista de las conexiones que nuestro docker tiene actualmente | `docker network ls` |
 | ``|  | `` |
