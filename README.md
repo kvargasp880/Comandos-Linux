@@ -49,13 +49,10 @@
 | `sudo apt-get install squid3`| Comando para instalar el servicio proxy squid | `sudo apt-get install squid3` |
 | `sudo snap install nextcloud`| Comando para instalar nextcloud | `sudo snap install nextcloud` |
 | `sudo nextcloud.manual-install nombre contraseña`| Comando para crear una cuenta administrativa en nextcloud | `sudo nextcloud.manual-install nombre contraseña` |
-| ``|  | `` |
-| ``|  | `` |
-| ``|  | `` |
+| `yay -S google-chrome`| Instalar google en manjaro | `yay -S google-chrome` |
+| `sudo pacman Syuu`| Actualizar los paquetes de manjaro | `sudo pacman Syuu` |
 | `df -h`| Comando para ver el espacio que se ha usado en el disco | `df -h` |
 | `Gparted`| Comando para revisar las particiones del disco | `V` |
-| ``|  | `` |
-| ``|  | `` |
 | `docker images`| Lista las imagenes de docker | `docker images` |
 | `docker ps -a`| Lista de las imagenes que se estan ejecutando | `docker ps -a` |
 | `docker info`| Informacion acerca de las instalaciones de docker | `docker info` |
@@ -66,4 +63,4 @@
 | `docker images -aq`| Comando que remueve todas las imagenes de docker | `docker images -aq` |
 | `docker build`| Construye alguna imagen desde la terminal | `docker build "nombre de la imagen"` |
 | `docker network ls`| Lista de las conexiones que nuestro docker tiene actualmente | `docker network ls` |
-| ``|  | `` |
+| `ls /tmp`|  | `ls /tmp` |
